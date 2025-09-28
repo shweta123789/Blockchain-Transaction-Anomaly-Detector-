@@ -5,6 +5,21 @@ Blockchain Transaction Anomaly Detector uses machine learning to identify suspic
 
 Blockchain Transaction Anomaly Detector is a machine learning–based system designed to monitor and detect unusual or suspicious blockchain transactions in real time. It analyzes transaction patterns to flag potential fraud, money laundering, or network manipulation, improving blockchain security and trust.
 
+
+### BLOCKCHAIN WALLET ANOMALY DETECTION DASHBOARD
+
+<img width="1864" height="873" alt="Screenshot 2025-09-28 223146" src="https://github.com/user-attachments/assets/5c4a48ae-6373-4992-a8b7-859a818aeb4b" />
+
+
+### ANOMALY SCORE DISTRIBUTION 
+
+<img width="910" height="786" alt="Screenshot 2025-09-28 223307" src="https://github.com/user-attachments/assets/11809271-fccb-4cd0-9020-9e6051845e9e" />
+
+
+### Detect anomalies as transactions occur.
+
+<img width="1028" height="793" alt="Screenshot 2025-09-28 223327" src="https://github.com/user-attachments/assets/9c4eacce-6891-4546-89d1-91a53ca16911" />
+
 ---
 
 ## 🚀 Features
@@ -18,14 +33,21 @@ Blockchain Transaction Anomaly Detector is a machine learning–based system des
 
 ## 📂 Project Structure
 ├── data/
+
 │ ├── blacklist
+
 │ ├── Ethereum_Transaction
+
 │ └── flagged_interactions_with_blacklist
+
 ├── notebooks/ Block Chain Projects
-├── src/ # C
+
 │ ├── app.py
+
 │ ├── detection.py
+
 │ └── visualization.py
+
 └── BlockChain.iml
 
 🧠 Algorithms Used
